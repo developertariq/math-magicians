@@ -1,3 +1,42 @@
 * {
   box-sizing: border-box;
 }
+
+.calculator {
+  width: 500px;
+  height: 500px;
+  border: none;
+  margin: 0 auto;
+  padding: 0;
+  background-color: rgb(224, 224, 224);
+}
+
+.display {
+  width: 100%;
+  height: calc(500px / 6);
+  border-bottom: 1px solid #d1d1d1;
+  background-color: #858693;
+}
+
+.keypad {
+  width: 100%;
+  height: calc(500px / 6 * 5);
+  border: none;
+}
+
+.key {
+  width: 25%;
+  height: calc(500px / 6);
+  font-size: 16px;
+  font-weight: 500;
+  float: left;
+  border: 1px solid #d1d1d1;
+}
+
+.double {
+  width: 50%;
+}
+
+.orange {
+  background-color: #f39148;
+}
