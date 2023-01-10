@@ -18,7 +18,7 @@ class Calculator extends React.Component {
           <button className="key" type="button">7</button>
           <button className="key" type="button">8</button>
           <button className="key" type="button">9</button>
-          <button className="key orange" type="button">x</button>
+          <button className="key orange" type="button">*</button>
           <button className="key" type="button">4</button>
           <button className="key" type="button">5</button>
           <button className="key" type="button">6</button>
