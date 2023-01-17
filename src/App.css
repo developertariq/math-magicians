@@ -45,3 +45,27 @@
 .color-button {
   background-color: #f39148;
 }
+
+.active-link {
+  color: orangered;
+  text-decoration: underline;
+}
+
+.navBar {
+  position: relative;
+}
+
+.menuNav {
+  display: flex;
+  list-style: none;
+}
+
+a {
+  display: block;
+  padding: 10px 40px;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+}
