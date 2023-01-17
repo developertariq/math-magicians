@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 
 const Header = () => {
   const headerStyle = {
-    padding: '20px 50px',
+    padding: '10px 50px',
     lineHeight: '1.5em',
     display: 'flex',
     justifyContent: 'space-between',
