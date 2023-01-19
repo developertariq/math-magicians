@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Project is under construction.
+- [Live Demo](https://tariq-mathmagicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
