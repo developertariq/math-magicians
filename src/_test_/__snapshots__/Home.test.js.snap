@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders correctly 1`] = `
+<div
+  className="main-container"
+>
+  <h2
+    className="page-title"
+    style={
+      Object {
+        "lineHeight": "1.45em",
+        "marginTop": "3rem",
+        "padding": "2.4em",
+      }
+    }
+  >
+    Mathematics is not about numbers, equations, computetions, or algorithms. It is about understanding -
+    <span
+      style={
+        Object {
+          "fontStyle": "italic",
+        }
+      }
+    >
+      William Paul Thurston
+    </span>
+  </h2>
+</div>
+`;

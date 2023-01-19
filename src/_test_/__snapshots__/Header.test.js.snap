@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders Header section correctly 1`] = `
+<header
+  data-testid="header"
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#0a0a23",
+      "borderBottom": "4px solid #fdb347",
+      "color": "#fff",
+      "display": "flex",
+      "justifyContent": "space-between",
+      "lineHeight": "1.5em",
+      "padding": "10px 50px",
+    }
+  }
+>
+  <h1
+    data-testid="site-title"
+    style={
+      Object {
+        "color": "#ececec",
+        "fontSize": "3rem",
+        "fontWeight": "600",
+        "lineHeight": "1em",
+        "marginBottom": "2rem",
+        "textAlign": "center",
+        "textTransform": "lowercase",
+      }
+    }
+  >
+    Math Magicians
+  </h1>
+  <nav
+    className="navBar"
+    data-testid="navbar"
+  >
+    <ul
+      className="menuNav"
+    >
+      <li>
+        <a
+          activeClassName="active-link"
+          aria-current="page"
+          className="active"
+          exact={true}
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <li>
+        <a
+          activeClassName="active-link"
+          className=""
+          exact={true}
+          href="/Calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <li>
+        <a
+          activeClassName="active-link"
+          className=""
+          exact={true}
+          href="/Quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+`;
