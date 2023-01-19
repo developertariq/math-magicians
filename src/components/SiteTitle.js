@@ -2,6 +2,7 @@ import React from 'react';
 
 const SiteTitle = () => (
   <h1
+    data-testid="site-title"
     style={{
       fontSize: '3rem',
       fontWeight: '600',
