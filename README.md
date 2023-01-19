@@ -4,6 +4,7 @@
 
 # 📗 Table of Contents
 
+- [Math Magicians](#math-magicians)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Math Magicians ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
@@ -140,9 +141,9 @@ You can deploy this project using:
 
 👤 **Md Tariq-ul Islam**
 
-- GitHub: @developertariq
-- LinkedIn: www.linkedin.com/in/developer-tariq
-- Twitter: @developer_tariq
+- GitHub: [developertariq](https://github.com/developertariq)
+- LinkedIn: [developer-tariq](www.linkedin.com/in/developer-tariq)
+- Twitter: [developer_tariq](https://twitter.com/developer_tariq)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
