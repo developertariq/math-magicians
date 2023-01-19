@@ -15,7 +15,7 @@ const Header = () => {
   };
 
   return (
-    <header style={headerStyle}>
+    <header data-testid="header" style={headerStyle}>
       <SiteTitle />
       <Navbar />
     </header>
