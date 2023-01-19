@@ -1,4 +1,4 @@
-# Math Magicians
+<h1 align="center">Math Magicians</h1>
 
 <!-- TABLE OF CONTENTS -->
 
